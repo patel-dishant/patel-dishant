@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Profile!
 
 I'm an Experienced Full Stack Developer with 14+ years of hands-on expertise delivering custom web solutions that are scalable, secure, and high-performing.
 
