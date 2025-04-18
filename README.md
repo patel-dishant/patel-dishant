@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi there! I'm an Experienced Full Stack Developer with 14+ years of hands-on expertise delivering custom web solutions that are scalable, secure, and high-performing.
+I'm an Experienced Full Stack Developer with 14+ years of hands-on expertise delivering custom web solutions that are scalable, secure, and high-performing.
 
 💼 Core Expertise:
 
